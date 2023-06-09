@@ -6,7 +6,7 @@ work-day-scheduler utilizes jQuery, local storage, and the 3rd party API Dayjs t
 ## Usage
 Visit <a href=https://dannonrogers.github.io/work-day-scheduler>https://dannonrogers.github.io/work-day-scheduler</a> to view the webpage. 
 
-![alt text](/daily-planner/Assets/images/daily-planner.png)
+![alt text](/work-day-scheduler/Assets/images/daily-planner.png)
 
 ## License
 MIT License
