@@ -1,4 +1,4 @@
-# work-day-scheduler
+# work-day-scheduler 
 
 ## Description
 work-day-scheduler utilizes jQuery, local storage, and the 3rd party API Dayjs to provide a work day planner to keep users on track and prepared for upcoming tasks and events throughout the day. 
