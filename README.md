@@ -1,12 +1,12 @@
-# daily-planner
+# work-day-planner
 
 ## Description
-daily-planner utilizes jQuery, local storage, and the 3rd party API Dayjs to provide a work day planner to keep users on track and prepared for upcoming tasks and events throughout the day. 
+work-day-planner utilizes jQuery, local storage, and the 3rd party API Dayjs to provide a work day planner to keep users on track and prepared for upcoming tasks and events throughout the day. 
 
 ## Usage
-Visit <a href=https://dannonrogers.github.io/daily-planner>https://dannonrogers.github.io/daily-planner</a> to view the webpage. 
+Visit <a href=https://dannonrogers.github.io/work-day-planner>https://dannonrogers.github.io/work-day-planner</a> to view the webpage. 
 
-![alt text](/daily-planner/Assets/images/daily-planner.png)
+![alt text](/daily-planner/Assets/images/work-day-planner.png)
 
 ## License
 MIT License
