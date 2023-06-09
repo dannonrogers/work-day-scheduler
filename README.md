@@ -6,7 +6,7 @@ daily-planner utilizes jQuery, local storage, and the 3rd party API Dayjs to pro
 ## Usage
 Visit <a href=https://dannonrogers.github.io/daily-planner>https://dannonrogers.github.io/daily-planner</a> to view the webpage. 
 
-![alt text](/daily-planner/Assets/daily-planner.png)
+![alt text](/daily-planner/Assets/images/daily-planner.png)
 
 ## License
 MIT License
